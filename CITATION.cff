@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and the data record."
+title: "crustalfate: figure and analysis code for incremental sill emplacement on Earth and Venus"
+type: software
+license: MIT
+repository-code: "https://github.com/two-phaseflow/crustalfate"
+authors:
+  - family-names: Scott
+    given-names: Samuel
+    affiliation: "Faculty of Earth Sciences, University of Iceland, Reykjavík, Iceland"
+  - family-names: Lourenço
+    given-names: Diogo
+    affiliation: "Institute of Geophysics, ETH Zurich, Zurich, Switzerland"
+  - family-names: Ikrar
+    given-names: Julia Satriani Kartini
+    affiliation: "Faculty of Earth Sciences, University of Iceland, Reykjavík, Iceland"
+  - family-names: Weis
+    given-names: Philipp
+    affiliation: "GFZ Helmholtz Centre for Geosciences, Potsdam, Germany"
+  - family-names: Stefánsson
+    given-names: Andri
+    affiliation: "Faculty of Earth Sciences, University of Iceland, Reykjavík, Iceland"
+references:
+  - type: dataset
+    title: "CrustalFate simulation output: incremental sill emplacement with hydrothermal and carbothermal circulation"
+    doi: "10.5281/zenodo.23539324"
+    authors:
+      - family-names: Scott
+        given-names: Samuel

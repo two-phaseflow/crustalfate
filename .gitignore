@@ -1,0 +1,5 @@
+figures/
+zenodo_data/
+__pycache__/
+*.pyc
+*_reduced.csv
