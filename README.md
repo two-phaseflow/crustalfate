@@ -2,7 +2,7 @@
 
 Code to reproduce every figure and every quoted number in
 
-> Scott, S., Lourenço, D., Ikrar, J. S. K., Weis, P. & Stefánsson, A. *CrustalFate* (in review).
+> Scott, S., Lourenço, D., Ikrar, J. S. K., Weis, P. & Stefánsson, A. Surface temperature controls fluid-mediated cooling of intrusive crust on Earth and Venus (in review).
 
 The simulations model incremental basaltic sill emplacement into Earth crust with hydrothermal (H₂O) circulation and
 into Venus crust with carbothermal (CO₂) circulation. Their reduced output is archived on Zenodo:
